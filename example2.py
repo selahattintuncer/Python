@@ -10,3 +10,6 @@ if (job_check and age_check and numb_child_check):
     print("Kredi alabilirisniz")
 else:
     print("Üzgünüz kredi alamazsınız")
+
+
+print("selo")
