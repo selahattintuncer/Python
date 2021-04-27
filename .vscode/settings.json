@@ -1,6 +1,6 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe",
+    "python.pythonPath": "C:\\Users\\selo\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
     "workbench.preferredDarkColorTheme": "Visual Studio Light",
     "workbench.colorTheme": "Default Light+"
 }
